@@ -24,4 +24,3 @@ Thank you all and wish me luck in preparing my career in software engineering!
 
 *Written in November 7, 2022, 21:59 PM HKT*
 
-//Daryl Kevin
