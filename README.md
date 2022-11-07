@@ -21,3 +21,5 @@ My future learning will include the following topics:
 2. Cloud Computing Basics
 
 Thank you all and wish me luck in preparing my career in software engineering!
+
+*written in November 7, 2022, 21:59 PM HKT*
