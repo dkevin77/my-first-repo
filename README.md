@@ -1,6 +1,6 @@
-#Welcome to My First Repo in GitHub :)
+# Welcome to My First Repo in GitHub :)
 
-##This is README.md
+## This is README.md
 
 I am currently learning how to properly introduce my repo using **Markdown**, a highly common yet simple language to write *readme* files.
 
